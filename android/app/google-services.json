@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "725984261804",
+    "project_id": "tour-guide-finder-a2764",
+    "storage_bucket": "tour-guide-finder-a2764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725984261804:android:4ee84dfa4b5e7e1988d109",
+        "android_client_info": {
+          "package_name": "com.team101.tgf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725984261804-74v5j0mn0bad4duel7upi14lmehbpjtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team101.tgf",
+            "certificate_hash": "9976b0a9dc0ea30d4feb45b3fee9946cbfcc464a"
+          }
+        },
+        {
+          "client_id": "725984261804-s6m79gfrikp88vlv1dfpr67m4etukvqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team101.tgf",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "725984261804-qtmnonoo1jg39i292bmnhj8tuudtrbej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJcRzoFq8uegoC5mEadzNMZU4KA263Rd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725984261804-qtmnonoo1jg39i292bmnhj8tuudtrbej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725984261804-504ltqfnjaqpns180eqgfj4a26g5rec0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.team101.tgf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725984261804:android:2810df0dfe7dc5a488d109",
+        "android_client_info": {
+          "package_name": "com.team101.tourguidefinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725984261804-b0v3cula9uap0ci1vkepum5q93fopq9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team101.tourguidefinder",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "725984261804-qtmnonoo1jg39i292bmnhj8tuudtrbej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJcRzoFq8uegoC5mEadzNMZU4KA263Rd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725984261804-qtmnonoo1jg39i292bmnhj8tuudtrbej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725984261804-504ltqfnjaqpns180eqgfj4a26g5rec0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.team101.tgf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
